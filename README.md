@@ -1,6 +1,6 @@
 # Transductive Link Prediction for Drug-Gene Interaction Networks
 
-**Alana Deng, Kaitlyn Wade, Lianghong Chen, Gen Zhou**
+Alana Deng, **Lianghong Chen**, Kaitlyn Wade, Gen Zhou
 
 ## Background
 ### Bipartite Graph
